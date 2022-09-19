@@ -10,3 +10,20 @@ To:
 2. assign a score to how well I did on a monthly basis.
 3. predict expences in the future.
 4. segmentation tool for seasonal spending.# calafin
+
+
+# Objectives:
+
+Major expenses:
+
+* Apartment Bills (Utilities, wifi, rent)
+* Savings accounts (HSA, Roth IRA, 401K)
+* GTR Savings Re
+
+Constraints/categories:
+* Shared living expenses
+* Recurring expenses
+
+Key Values:
+* Annotate different expenses
+* Ability to process raw transaction data
