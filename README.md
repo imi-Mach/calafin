@@ -1,5 +1,7 @@
 # Financial Calculations App
 
+**Update**: I am looking to re-work this project using the ASP.net Core framework. Will migrate work to here once I have finished on the private repo.
+
 This python code is how I interpret my expenses on a montly basis.
 
 ## Hopes
